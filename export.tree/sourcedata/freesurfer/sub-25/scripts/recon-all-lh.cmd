@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/kz/08/MD5E-s24900--a25ac3866e76b8174403caeeb8d0ea6e.cmd/MD5E-s24900--a25ac3866e76b8174403caeeb8d0ea6e.cmd
